@@ -1,4 +1,4 @@
-##Spotify Data Analysis
+#Spotify Data Analysis
 This project involves analyzing Spotify data using various SQL queries. The analysis covers the following:
 
 Average Danceability by Artist:
